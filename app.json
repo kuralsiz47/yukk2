@@ -110,7 +110,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/Alfa00006/yuki",
+      "value": "https://github.com/kuralsiz47/yukk2",
       "required": true
     },
     "UPSTREAM_BRANCH": {
